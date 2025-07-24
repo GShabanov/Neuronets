@@ -6,7 +6,7 @@
 #include <afxdialogex.h>
 #include "Neuronets.h"
 
-#include "..\Shared\MFCGraph.h"
+#include "lib\MfcShared\MFCGraph.h"
 #include "FirstTab.h"
 #include "SecondTab.h"
 #include "ThirdTab.h"

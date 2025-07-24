@@ -189,8 +189,8 @@
     </ResourceCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\Shared\MFCNotify.h" />
-    <ClInclude Include="..\Shared\MFCPicture.h" />
+    <ClInclude Include="lib\MfcShared\MFCNotify.h" />
+    <ClInclude Include="lib\MfcShared\MFCPicture.h" />
     <ClInclude Include="FirstTab.h" />
     <ClInclude Include="FourthTab.h" />
     <ClInclude Include="framework.h" />
@@ -210,7 +210,7 @@
     <ClInclude Include="ThirdTab.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\Shared\MFCPicture.cpp" />
+    <ClCompile Include="lib\MfcShared\MFCPicture.cpp" />
     <ClCompile Include="FirstTab.cpp" />
     <ClCompile Include="FourthTab.cpp" />
     <ClCompile Include="HammingNetwork.cpp" />

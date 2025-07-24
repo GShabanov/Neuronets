@@ -1,0 +1,3 @@
+[submodule "lib/MfcShared"]
+	path = lib/MfcShared
+	url = https://github.com/GShabanov/MfcShared.git
