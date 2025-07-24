@@ -4,7 +4,7 @@
 
 #include "pch.h"
 #include <afxdialogex.h>
-#include "..\..\Shared\MFCPicture.h"
+#include "..\Shared\MFCPicture.h"
 #include "ThirdTab.h"
 #include "resource.h"
 
